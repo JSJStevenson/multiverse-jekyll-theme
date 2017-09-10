@@ -6,7 +6,7 @@ description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "/multiverse-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+street_address: 1234 Somewhere Drive
 city: Nashville
 state: TN
 zip_code: 55555
